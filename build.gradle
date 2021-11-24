@@ -37,3 +37,6 @@ allprojects {
         jcenter()
     }
 }
+
+android.useAndroidX=true
+android.enableJetifier=true
